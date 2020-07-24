@@ -1,3 +1,3 @@
-# Private Content
+# Public Content
 
 Public content unique to Slate.
